@@ -1,0 +1,1 @@
+This project involes the creation of various R language scripts to assist in data processing and analysis focused on metabolomics.
